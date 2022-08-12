@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OwenHamill
 - 🏢 I'm employed as a Backend Developer at Devoteam Creative Tech in Stockholm, Sweden.
 - 👨‍💻 I'm fluent in Java and Go.
-- 👨‍🎓 I'm interested in Kubernetes, CI/CD pipelines, and Rust as areas of future professional growth
+- 👨‍🎓 I'm interested in DevOps, Kubernetes, and CI/CD pipelines as areas of future professional growth
 - 📫 You can reach me at owen.hamill@devoteam.com
 
 <!---
