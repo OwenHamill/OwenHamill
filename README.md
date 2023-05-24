@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OwenHamill
 - 🏢 I'm employed as a Backend Developer at Devoteam Creative Tech in Stockholm, Sweden.
-- 👨‍💻 I'm fluent in Java and Go, and currently working in C#.
-- 👨‍🎓 I'm interested in DevOps, programming language design and implementation, compiler design, and type theory as areas of future professional growth. In my free time, I'm currently developing my own programming language, called [Aura](https://github.com/ohamill/aura-lang), a dynamically typed, interpreted language implemented in C.
+- 👨‍💻 I've worked professionally in Perl, Go, and C#.
+- 👨‍🎓 I'm interested in DevOps, programming language design and implementation, compiler design, and type theory as areas of future professional growth. In my free time, I'm currently developing my own programming language, called [Aura](https://github.com/ohamill/aura-lang).
 - 📫 You can reach me at owen.hamill@devoteam.com
 
 <!---
